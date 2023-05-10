@@ -2,7 +2,7 @@
 
 # 📱 mascote-android
 
-Página estática, criada para aperfeiçoamento de técnicas.
+Página estática, criada para aperfeiçoamento de técnicas HTML.
 
 ----
 
